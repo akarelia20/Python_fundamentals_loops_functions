@@ -28,6 +28,7 @@ for x in range(0,500001):
     sum += x
 print(sum)
 
+
 # Print positive numbers starting at 2018, counting down by fours
 for x in range(2018, 0 , -4):
     print(x)
