@@ -1,3 +1,3 @@
 # Python_fundamentals_loops_functions
 
-This repository contains looping through dictionarie and lists.
+This repository there is demonstration on looping through dictionarie and lists to get the required data a user needs.
